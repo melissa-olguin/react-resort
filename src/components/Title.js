@@ -1,5 +1,3 @@
-
-
 import React from "react";
 
 const Title = ({ title }) => {
@@ -12,8 +10,3 @@ const Title = ({ title }) => {
 };
 
 export default Title;
-/*  );
-};
-
-export default Title;
-*/
