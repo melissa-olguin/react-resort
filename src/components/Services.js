@@ -10,19 +10,14 @@ export default class Services extends Component {
         info: "All the coffee you can drink"
       },
       {
-        icon: <FaHiking />,
-        title: "Endless Hiking",
-        info: "Come hike in our one of at beautiful locations"
+        icon: <FaBed />,
+        title: "Luxury Beds",
+        info: "Beds that will give you a great nights rest"
       },
       {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
         info: "Free shuttle to and from the airport"
-      },
-      {
-        icon: <FaBed />,
-        title: "Luxury Beds",
-        info: "Beds that will give you a great nights rest"
       }
     ]
   };
